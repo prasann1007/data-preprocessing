@@ -1,2 +1,1 @@
-# data-preprocessing
-in this i have prepare data for applying machine learning models
+mini project on machine learning
